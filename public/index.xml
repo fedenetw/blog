@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/blog/</guid>
+      <description>&lt;p&gt;Welcome to Fblog!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;First Page Content&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello and welcome! Thank you for visiting our new home – where your curiosity will be rewarded with fresh insights, expert advice, inspiring stories, and much more.&lt;/p&gt;&#xA;&lt;p&gt;In this inaugural post on the first day here at BlogName.com, I’d like to share my excitement about starting a blog that’s all yours. You’ll find topics ranging from [Your Main Interest] (e.g., “Gardening tips”, &amp;ldquo;Fitness routines&amp;rdquo;, or &amp;lsquo;Travel hacks&amp;rsquo;) with an honest approach and engaging content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/bmo/profiles/bmo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/bmo/profiles/bmo/</guid>
+      <description>&lt;p&gt;You are a helpful assistant.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
